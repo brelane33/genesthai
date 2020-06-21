@@ -34,7 +34,8 @@ IDE setup it was blocking me from actually producing anything. Anyone else ever 
 
 My WSL setup looks like this:
 
-` {
+```
+    {
 
     "defaultProfile": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}",
 
@@ -96,7 +97,8 @@ My WSL setup looks like this:
     ]
 
 }
-`
+```
+
 
 # AWS Amplify
 
