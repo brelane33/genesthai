@@ -1,4 +1,22 @@
 // _layouts/default.html
+<!DOCTYPE html>
 <head>
-{% include analytics.html %}
+    {% if jekyll.environment == "production" %}
+    {% include analytics.html %}
+    {% endif %}
 </head>
+<html lang="en">
+{% include head.html %}
+<body>
+  <div class="clearfix">
+    {% include nav.html %}
+    <main class="col col12 sm:col8 md:col9 lg:col8 mt5 pl2 pr2">
+      <div class="col12 md:col10 lg:col8 mxauto">
+        {{ content }}
+      {% include footer.html %}
+      </div>
+    </main>
+  </div>
+
+</body>
+</html>
