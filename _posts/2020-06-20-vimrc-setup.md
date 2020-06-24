@@ -22,4 +22,11 @@ Had been struggling with that issue for a while.
 
 Got this thing setup on Windows, too, using WSL and the Windows Terminal. That thing is such a miserable piece of crap. Every solution is somehow disappointing...
 
+# Update 6/24/2020
 
+Wanted to show this off because I think it's so awesome. When I go to work on things, now, I can actually focus, instead of being distracted by how not-pleasing my setup is. It really feels like ubuntu!
+
+![vim_setup](/assets/img/vim_setup.jpg)
+
+I got this setup idea from https://tpaschalis.github.io/vim-go-setup/
+this boi right here, and then got it running in WSL and Windows terminal, because windows is ass at working with Vim...
