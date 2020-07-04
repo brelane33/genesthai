@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "blog intro"
+layout: single 
+
 date:   2020-06-18 12:09:53 -0500
-categories: jekyll update
+
+
 ---
 ## Suh
 

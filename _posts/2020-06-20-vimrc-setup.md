@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Working on vim setup"
 date:   2020-06-20 20:23:53 -0500
 ---

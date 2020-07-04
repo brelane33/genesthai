@@ -1,0 +1,13 @@
+<header>
+  <a href="#maincontent" class="skip-link">Skip to content</a>
+  {% include nav.html %}
+</header>
+<main role="main" id="maincontent">
+  <article itemscope itemtype="https://schema.org/Article">
+     <div itemprop="articleBody">
+      {{ content }}
+    </div>
+  </article>
+  <hr />
+  {% include author.html %}
+</main>

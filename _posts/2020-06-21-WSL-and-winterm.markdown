@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "WSL, Ubuntu, and Windows Terminal"
 date:   2020-06-20 20:23:53 -0500
 ---
